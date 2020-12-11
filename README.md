@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi eveyone, I'am Philippe 👋
 
-<!--
-**DevShimi92/DevShimi92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_please note that this presentation is not final_
 
-Here are some ideas to get you started:
+I am a student and I am trying to complete my school project for the success of my degree.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So for the moment, I don't have much to say. Sorry !
+
+- 🌱 I’m currently learning Typescript for the moment.
+
+<table align="center">
+	<tr>
+			<td><img align="center" alt="DevShimi92 Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevShimi92&show_icons=true&theme=tokyonight" /></td>
+			<td><img align="center" alt="DevShimi92 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevShimi92&theme=tokyonight&hide=html,css" /></td>
+		</tr>
+</table>  
+
+> Provided by [`GitHub Readme Stats`]
