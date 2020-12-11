@@ -16,3 +16,5 @@ So for the moment, I don't have much to say. Sorry !
 </table>  
 
 > Provided by [`GitHub Readme Stats`]
+
+[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
