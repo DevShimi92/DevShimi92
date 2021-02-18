@@ -6,7 +6,7 @@ I am a student and I am trying to complete my school project for the success of 
 
 So for the moment, I don't have much to say. Sorry !
 
-- 🌱 I’m currently learning Typescript for the moment.
+- 🌱 I’m currently learning Typescript/Angular/NativeScript for the moment.
 
 <table align="center">
 	<tr>
