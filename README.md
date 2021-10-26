@@ -2,8 +2,6 @@
 
 Aspiring Developer, here you found some projects i try to completed. Enjoy the time you spend here.
 
-- 🌱 I’m currently learning Typescript for the moment.
-
 <table align="center">
 	<tr>
 			<td><img align="center" alt="DevShimi92 Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevShimi92&show_icons=true&theme=tokyonight" /></td>
